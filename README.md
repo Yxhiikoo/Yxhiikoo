@@ -87,6 +87,49 @@ const gabriel = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="ligne" />
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="32" /> En ce moment
+
+| | Objectif | Progression |
+|:-:|:--|:--|
+| ⚛️ | Maîtriser **React** | <img src="https://geps.dev/progress/40?dangerColor=7F00FF&warningColor=E100FF&successColor=00D4FF" /> |
+| 🎨 | Devenir bon en **CSS / animations** | <img src="https://geps.dev/progress/65?dangerColor=7F00FF&warningColor=E100FF&successColor=00D4FF" /> |
+| 🌿 | Git sans paniquer | <img src="https://geps.dev/progress/80?dangerColor=7F00FF&warningColor=E100FF&successColor=00D4FF" /> |
+| 🟨 | **JavaScript** moderne (ES2024+) | <img src="https://geps.dev/progress/55?dangerColor=7F00FF&warningColor=E100FF&successColor=00D4FF" /> |
+| 🐍 | Bases de **Python** | <img src="https://geps.dev/progress/30?dangerColor=7F00FF&warningColor=E100FF&successColor=00D4FF" /> |
+| 🎮 | Coder mon propre jeu | <img src="https://geps.dev/progress/10?dangerColor=7F00FF&warningColor=E100FF&successColor=00D4FF" /> |
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="32" /> Ma journée type
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'pie1': '#7F00FF', 'pie2': '#E100FF', 'pie3': '#00D4FF', 'pie4': '#39FF14', 'pie5': '#FF2E97', 'pieTitleTextColor': '#ffffff', 'pieLegendTextColor': '#ffffff', 'pieStrokeColor': '#0D1117'}}}%%
+pie showData title Où passe mon temps ⏳
+    "Coder" : 40
+    "Débugger (souffrir)" : 25
+    "Chercher sur Google / IA" : 15
+    "Jeux vidéo" : 12
+    "Café" : 8
+```
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="32" /> Fun facts
+
+<table align="center">
+<tr>
+<td align="center" width="25%">🌙<br /><b>Night owl</b><br /><sub>Mon meilleur code sort après minuit</sub></td>
+<td align="center" width="25%">🐛<br /><b>Chasseur de bugs</b><br /><sub>Je les trouve… souvent après les avoir créés</sub></td>
+<td align="center" width="25%">🎨<br /><b>Pixel lover</b><br /><sub>Mon calendrier en est la preuve</sub></td>
+<td align="center" width="25%">⌨️<br /><b>Ctrl+Z addict</b><br /><sub>Mon raccourci préféré, de loin</sub></td>
+</tr>
+</table>
+
+```diff
++ Ce qui me motive : voir un projet prendre vie dans le navigateur
++ Ce que j'aime : les interfaces propres, les animations fluides, le dark mode
+- Ce que je déteste : les points-virgules oubliés et les merge conflicts
+! Prochain objectif : publier un projet perso dont je suis fier
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="ligne" />
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" width="32" /> Mes projets
 
 <p align="center">
@@ -141,6 +184,42 @@ const gabriel = {
     <img alt="Serpent de contributions" src="https://raw.githubusercontent.com/Yxhiikoo/Yxhiikoo/output/snake.svg" />
   </picture>
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="ligne" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="32" /> Salle d'arcade
+
+<p align="center"><b>👻 Pac-Man dévore mes commits</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yxhiikoo/Yxhiikoo/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yxhiikoo/Yxhiikoo/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man" src="https://raw.githubusercontent.com/Yxhiikoo/Yxhiikoo/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
+
+<p align="center"><b>🚀 Galaga attaque mon calendrier</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yxhiikoo/Yxhiikoo/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yxhiikoo/Yxhiikoo/output/galaga-contribution-graph.svg" />
+    <img alt="Galaga" src="https://raw.githubusercontent.com/Yxhiikoo/Yxhiikoo/output/galaga-contribution-graph.svg" />
+  </picture>
+</p>
+
+<details>
+<summary><b>🧱 Bonus : Casse-briques</b></summary>
+<br />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yxhiikoo/Yxhiikoo/output/breakout-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yxhiikoo/Yxhiikoo/output/breakout-contribution-graph.svg" />
+    <img alt="Casse-briques" src="https://raw.githubusercontent.com/Yxhiikoo/Yxhiikoo/output/breakout-contribution-graph.svg" />
+  </picture>
+</p>
+</details>
+
+<p align="center"><sub>🕹️ Tous les jeux sont générés automatiquement à partir de mes vraies contributions</sub></p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="ligne" />
 

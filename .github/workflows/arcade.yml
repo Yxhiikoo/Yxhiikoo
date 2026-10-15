@@ -1,4 +1,4 @@
-name: Serpent de contributions
+name: Serpent et salle d'arcade
 
 on:
   schedule:
@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths: [".github/workflows/arcade.yml"]
 
 permissions:
   contents: write
@@ -13,7 +14,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - uses: Platane/snk@v3
         with:
@@ -21,6 +22,13 @@ jobs:
           outputs: |
             dist/snake.svg?color_snake=#E100FF&color_dots=#ebedf0,#e0b3ff,#c266ff,#9f1aff,#7F00FF
             dist/snake-dark.svg?palette=github-dark&color_snake=#00D4FF&color_dots=#161b22,#3b0066,#6a00b3,#a100ff,#E100FF
+
+      - uses: abozanona/pacman-contribution-graph@v5.0.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman,galaga,breakout"
+
+      - run: ls -la dist
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
