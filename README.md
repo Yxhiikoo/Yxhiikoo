@@ -49,10 +49,6 @@ const gabriel = {
   <img src="https://streak-stats.demolab.com?user=Yxhiikoo&theme=radical&hide_border=true&background=0D1117&ring=E100FF&fire=00D4FF&currStreakLabel=E100FF" alt="Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yxhiikoo&bg_color=0D1117&color=ffffff&line=E100FF&point=00D4FF&area=true&area_color=7F00FF&hide_border=true" width="95%" alt="Graphique d'activité" />
-</p>
-
 ## 🐍 Le serpent qui mange mes contributions
 
 <p align="center">
@@ -61,12 +57,6 @@ const gabriel = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yxhiikoo/Yxhiikoo/output/snake.svg" />
     <img alt="Serpent de contributions" src="https://raw.githubusercontent.com/Yxhiikoo/Yxhiikoo/output/snake.svg" />
   </picture>
-</p>
-
-## 🏆 Trophées
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yxhiikoo&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophées" />
 </p>
 
 ---
