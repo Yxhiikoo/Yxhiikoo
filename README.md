@@ -61,9 +61,10 @@
 
 <p align="center"><img src="arcade/blackjack.svg?v=2" width="100%" alt="Blackjack" /></p>
 <p align="center">
-  <a href="https://github.com/Yxhiikoo/Yxhiikoo/issues/new?title=arcade%7Cbj%7Cnew&body=%F0%9F%91%89%20Clique%20simplement%20sur%20%2A%2ASubmit%20new%20issue%2A%2A%20%28%C2%AB%20Soumettre%20%C2%BB%29%20sans%20rien%20changer.%0A%0A%F0%9F%A4%96%20Le%20robot%20joue%20ton%20coup%20en%20~30%20secondes%2C%20te%20r%C3%A9pond%20ici%20et%20met%20%C3%A0%20jour%20le%20profil%20de%20%40Yxhiikoo%20%21"><img src="https://img.shields.io/badge/%F0%9F%83%8F_Nouvelle_main_%28100_%F0%9F%AA%99%29-39FF14?style=for-the-badge" alt="🃏 Nouvelle main (100 🪙)" /></a>
+  <a href="https://github.com/Yxhiikoo/Yxhiikoo/issues/new?title=arcade%7Cbj%7Chit&body=%F0%9F%91%89%20Clique%20simplement%20sur%20%2A%2ASubmit%20new%20issue%2A%2A%20%28%C2%AB%20Soumettre%20%C2%BB%29%20sans%20rien%20changer.%0A%0A%F0%9F%A4%96%20Le%20robot%20joue%20ton%20coup%20en%20~30%20secondes%2C%20te%20r%C3%A9pond%20ici%20et%20met%20%C3%A0%20jour%20le%20profil%20de%20%40Yxhiikoo%20%21"><img src="https://img.shields.io/badge/%E2%9E%95_Tirer-39FF14?style=for-the-badge" alt="➕ Tirer" /></a>
+  <a href="https://github.com/Yxhiikoo/Yxhiikoo/issues/new?title=arcade%7Cbj%7Cstand&body=%F0%9F%91%89%20Clique%20simplement%20sur%20%2A%2ASubmit%20new%20issue%2A%2A%20%28%C2%AB%20Soumettre%20%C2%BB%29%20sans%20rien%20changer.%0A%0A%F0%9F%A4%96%20Le%20robot%20joue%20ton%20coup%20en%20~30%20secondes%2C%20te%20r%C3%A9pond%20ici%20et%20met%20%C3%A0%20jour%20le%20profil%20de%20%40Yxhiikoo%20%21"><img src="https://img.shields.io/badge/%E2%9C%8B_Rester-E100FF?style=for-the-badge" alt="✋ Rester" /></a>
 </p>
-<p align="center"><sub>Lance une main, puis reviens ici pour tirer ou rester.</sub></p>
+<p align="center"><sub>Main en cours pour **@Yxhiikoo** — seul ce joueur peut tirer ou rester (elle expire au bout de 30 min).</sub></p>
 
 <details>
 <summary><b>🏆 Classement des joueurs & derniers coups</b></summary>
