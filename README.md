@@ -20,6 +20,21 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="720" alt="Setup pixel art" />
 </p>
 
+<h3 align="center">🕹️ Mes mini-jeux jouables — clique pour jouer !</h3>
+
+<p align="center">
+  <a href="https://yxhiikoo.github.io/" target="_blank">
+    <img src="./assets/arcade.svg" width="100%" alt="Gabriel Arcade — jouer" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://yxhiikoo.github.io/run.html"><img src="https://img.shields.io/badge/🏃_Neon_Run_3D-JOUER-00D4FF?style=for-the-badge" alt="Neon Run 3D" /></a>
+  <a href="https://yxhiikoo.github.io/slots.html"><img src="https://img.shields.io/badge/🎰_Machine_à_sous-JOUER-FFD23F?style=for-the-badge" alt="Machine à sous" /></a>
+  <a href="https://yxhiikoo.github.io/blackjack.html"><img src="https://img.shields.io/badge/🃏_Blackjack-JOUER-39FF14?style=for-the-badge" alt="Blackjack" /></a>
+  <a href="https://yxhiikoo.github.io/roulette.html"><img src="https://img.shields.io/badge/🎡_Roulette_3D-JOUER-E100FF?style=for-the-badge" alt="Roulette 3D" /></a>
+</p>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="ligne" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" /> À propos de moi
