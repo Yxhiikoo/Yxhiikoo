@@ -1,14 +1,20 @@
 {
- "version": 1,
+ "version": 2,
  "players": {
   "Yxhiikoo": {
-   "chips": 1050,
-   "plays": 1,
+   "chips": 950,
+   "plays": 2,
    "wins": 1,
    "best": 1050
   }
  },
  "log": [
+  {
+   "who": "Yxhiikoo",
+   "e": "🎡",
+   "t": "🔴 Rouge → 31 noir (-100)",
+   "at": 1792164405
+  },
   {
    "who": "Yxhiikoo",
    "e": "🎰",
@@ -27,11 +33,14 @@
   "win": true
  },
  "roulette": {
-  "last": null,
-  "who": null,
-  "text": "Choisis ta mise !",
-  "history": [],
-  "win": false
+  "last": 31,
+  "who": "Yxhiikoo",
+  "bet": "🔴 Rouge",
+  "text": "-100",
+  "win": false,
+  "history": [
+   31
+  ]
  },
  "bj": {
   "active": false,
