@@ -42,12 +42,12 @@
 <!-- ARCADE:START -->
 <p align="center"><b>Clique sur un bouton → valide le ticket → mon robot joue ton coup et met à jour ce profil en ~30 s.</b><br /><sub>Tu commences avec 1 000 🪙 fictifs. Aucun argent réel.</sub></p>
 
-<p align="center"><img src="arcade/slots.svg?v=3" width="100%" alt="Machine à sous" /></p>
+<p align="center"><img src="arcade/slots.svg?v=4" width="100%" alt="Machine à sous" /></p>
 <p align="center">
   <a href="https://github.com/Yxhiikoo/Yxhiikoo/issues/new?title=arcade%7Cslots%7Cspin&body=%F0%9F%91%89%20Clique%20simplement%20sur%20%2A%2ASubmit%20new%20issue%2A%2A%20%28%C2%AB%20Soumettre%20%C2%BB%29%20sans%20rien%20changer.%0A%0A%F0%9F%A4%96%20Le%20robot%20joue%20ton%20coup%20en%20~30%20secondes%2C%20te%20r%C3%A9pond%20ici%20et%20met%20%C3%A0%20jour%20le%20profil%20de%20%40Yxhiikoo%20%21"><img src="https://img.shields.io/badge/%F0%9F%8E%B0_Tirer_le_levier_%2850_%F0%9F%AA%99%29-FFD23F?style=for-the-badge" alt="🎰 Tirer le levier (50 🪙)" /></a>
 </p>
 
-<p align="center"><img src="arcade/roulette.svg?v=3" width="100%" alt="Roulette" /></p>
+<p align="center"><img src="arcade/roulette.svg?v=4" width="100%" alt="Roulette" /></p>
 <p align="center">
   <a href="https://github.com/Yxhiikoo/Yxhiikoo/issues/new?title=arcade%7Croulette%7Crouge&body=%F0%9F%91%89%20Clique%20simplement%20sur%20%2A%2ASubmit%20new%20issue%2A%2A%20%28%C2%AB%20Soumettre%20%C2%BB%29%20sans%20rien%20changer.%0A%0A%F0%9F%A4%96%20Le%20robot%20joue%20ton%20coup%20en%20~30%20secondes%2C%20te%20r%C3%A9pond%20ici%20et%20met%20%C3%A0%20jour%20le%20profil%20de%20%40Yxhiikoo%20%21"><img src="https://img.shields.io/badge/%F0%9F%94%B4_Rouge_x2-FF2E63?style=for-the-badge" alt="🔴 Rouge x2" /></a>
   <a href="https://github.com/Yxhiikoo/Yxhiikoo/issues/new?title=arcade%7Croulette%7Cnoir&body=%F0%9F%91%89%20Clique%20simplement%20sur%20%2A%2ASubmit%20new%20issue%2A%2A%20%28%C2%AB%20Soumettre%20%C2%BB%29%20sans%20rien%20changer.%0A%0A%F0%9F%A4%96%20Le%20robot%20joue%20ton%20coup%20en%20~30%20secondes%2C%20te%20r%C3%A9pond%20ici%20et%20met%20%C3%A0%20jour%20le%20profil%20de%20%40Yxhiikoo%20%21"><img src="https://img.shields.io/badge/%E2%9A%AB_Noir_x2-1a0833?style=for-the-badge" alt="⚫ Noir x2" /></a>
@@ -59,18 +59,19 @@
   <a href="https://github.com/Yxhiikoo/Yxhiikoo/issues/new?title=arcade%7Croulette%7C17&body=%F0%9F%91%89%20Clique%20simplement%20sur%20%2A%2ASubmit%20new%20issue%2A%2A%20%28%C2%AB%20Soumettre%20%C2%BB%29%20sans%20rien%20changer.%0A%0A%F0%9F%A4%96%20Le%20robot%20joue%20ton%20coup%20en%20~30%20secondes%2C%20te%20r%C3%A9pond%20ici%20et%20met%20%C3%A0%20jour%20le%20profil%20de%20%40Yxhiikoo%20%21"><img src="https://img.shields.io/badge/Plein_17_x36-E100FF?style=for-the-badge" alt="Plein 17 x36" /></a>
 </p>
 
-<p align="center"><img src="arcade/blackjack.svg?v=3" width="100%" alt="Blackjack" /></p>
+<p align="center"><img src="arcade/blackjack.svg?v=4" width="100%" alt="Blackjack" /></p>
 <p align="center">
-  <a href="https://github.com/Yxhiikoo/Yxhiikoo/issues/new?title=arcade%7Cbj%7Cnew&body=%F0%9F%91%89%20Clique%20simplement%20sur%20%2A%2ASubmit%20new%20issue%2A%2A%20%28%C2%AB%20Soumettre%20%C2%BB%29%20sans%20rien%20changer.%0A%0A%F0%9F%A4%96%20Le%20robot%20joue%20ton%20coup%20en%20~30%20secondes%2C%20te%20r%C3%A9pond%20ici%20et%20met%20%C3%A0%20jour%20le%20profil%20de%20%40Yxhiikoo%20%21"><img src="https://img.shields.io/badge/%F0%9F%83%8F_Nouvelle_main_%28100_%F0%9F%AA%99%29-39FF14?style=for-the-badge" alt="🃏 Nouvelle main (100 🪙)" /></a>
+  <a href="https://github.com/Yxhiikoo/Yxhiikoo/issues/new?title=arcade%7Cbj%7Chit&body=%F0%9F%91%89%20Clique%20simplement%20sur%20%2A%2ASubmit%20new%20issue%2A%2A%20%28%C2%AB%20Soumettre%20%C2%BB%29%20sans%20rien%20changer.%0A%0A%F0%9F%A4%96%20Le%20robot%20joue%20ton%20coup%20en%20~30%20secondes%2C%20te%20r%C3%A9pond%20ici%20et%20met%20%C3%A0%20jour%20le%20profil%20de%20%40Yxhiikoo%20%21"><img src="https://img.shields.io/badge/%E2%9E%95_Tirer-39FF14?style=for-the-badge" alt="➕ Tirer" /></a>
+  <a href="https://github.com/Yxhiikoo/Yxhiikoo/issues/new?title=arcade%7Cbj%7Cstand&body=%F0%9F%91%89%20Clique%20simplement%20sur%20%2A%2ASubmit%20new%20issue%2A%2A%20%28%C2%AB%20Soumettre%20%C2%BB%29%20sans%20rien%20changer.%0A%0A%F0%9F%A4%96%20Le%20robot%20joue%20ton%20coup%20en%20~30%20secondes%2C%20te%20r%C3%A9pond%20ici%20et%20met%20%C3%A0%20jour%20le%20profil%20de%20%40Yxhiikoo%20%21"><img src="https://img.shields.io/badge/%E2%9C%8B_Rester-E100FF?style=for-the-badge" alt="✋ Rester" /></a>
 </p>
-<p align="center"><sub>Lance une main, puis reviens ici pour tirer ou rester.</sub></p>
+<p align="center"><sub>Main en cours pour **@Yxhiikoo** — seul ce joueur peut tirer ou rester (elle expire au bout de 30 min).</sub></p>
 
 <details>
 <summary><b>🏆 Classement des joueurs & derniers coups</b></summary>
 
 | | Joueur | Jetons | Parties | Victoires |
 |:-:|:--|--:|--:|--:|
-| 🥇 | [@Yxhiikoo](https://github.com/Yxhiikoo) | 950 🪙 | 2 | 1 |
+| 🥇 | [@Yxhiikoo](https://github.com/Yxhiikoo) | 850 🪙 | 3 | 1 |
 
 **Derniers coups :**
 - 🃏 **@Yxhiikoo** : 17 contre 20 → Le croupier gagne -100
