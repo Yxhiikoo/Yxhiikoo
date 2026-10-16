@@ -1,16 +1,30 @@
 {
- "version": 0,
- "players": {},
- "log": [],
+ "version": 1,
+ "players": {
+  "Yxhiikoo": {
+   "chips": 1050,
+   "plays": 1,
+   "wins": 1,
+   "best": 1050
+  }
+ },
+ "log": [
+  {
+   "who": "Yxhiikoo",
+   "e": "🎰",
+   "t": "🍒 🍋 🍒 → GAGNÉ x2 · +100",
+   "at": 1792164375
+  }
+ ],
  "slots": {
   "last": [
-   "7️⃣",
-   "7️⃣",
-   "7️⃣"
+   "🍒",
+   "🍋",
+   "🍒"
   ],
-  "who": null,
-  "text": "Tire le levier !",
-  "win": false
+  "who": "Yxhiikoo",
+  "text": "GAGNÉ x2 · +100",
+  "win": true
  },
  "roulette": {
   "last": null,
