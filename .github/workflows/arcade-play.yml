@@ -1,0 +1,46 @@
+name: Arcade du profil
+
+on:
+  issues:
+    types: [opened]
+
+concurrency:
+  group: arcade
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'arcade|')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Jouer le coup
+        env:
+          TITLE: ${{ github.event.issue.title }}
+          PLAYER: ${{ github.event.issue.user.login }}
+        run: python3 arcade/engine.py "$TITLE" "$PLAYER"
+
+      - name: Publier sur le profil
+        run: |
+          git config user.name "arcade-bot"
+          git config user.email "github-actions@github.com"
+          git add README.md arcade
+          git commit -m "🕹️ Coup de @${{ github.event.issue.user.login }} (#${{ github.event.issue.number }})"
+          for i in 1 2 3 4 5; do
+            git pull --rebase -X theirs && git push && break
+            sleep 3
+          done
+
+      - name: Répondre et fermer le ticket
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NUM: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$NUM" --body-file comment.md
+          gh issue close "$NUM"

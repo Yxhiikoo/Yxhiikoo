@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="360" viewBox="0 0 860 360">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1d0640"/><stop offset="1" stop-color="#07010f"/></linearGradient>
+ <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <style>
+  .t{font-family:'Press Start 2P','Courier New',monospace;font-weight:900} .e{font-family:'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif}
+  .blink{animation:blink 1s steps(2) infinite} @keyframes blink{50%{opacity:.25}}
+  .pop{animation:pop .5s ease-out both;transform-box:fill-box;transform-origin:center} @keyframes pop{from{opacity:0;transform:scale(.6)}}
+  
+ </style>
+</defs>
+<rect width="860" height="360" rx="18" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="857" height="357" rx="17" fill="none" stroke="#39FF14" stroke-width="3" filter="url(#glow)"/>
+<text x="430.0" y="40" text-anchor="middle" class="t" font-size="20" fill="#39FF14" filter="url(#glow)">🃏 BLACKJACK</text>
+<text x="60" y="135" class="t" font-size="11" fill="#00D4FF">CROUPIER</text><text x="60" y="160" class="t" font-size="18" fill="#fff"></text>
+<text x="60" y="260" class="t" font-size="11" fill="#00D4FF">—</text><text x="60" y="285" class="t" font-size="18" fill="#fff"></text>
+<g class="pop" style="animation-delay:1.6s"><text x="430" y="335" text-anchor="middle" class="t" font-size="16" fill="#FFD23F" filter="url(#glow)">Lance une partie !</text></g>
+</svg>

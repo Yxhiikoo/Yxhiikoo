@@ -1,0 +1,32 @@
+{
+ "version": 0,
+ "players": {},
+ "log": [],
+ "slots": {
+  "last": [
+   "7️⃣",
+   "7️⃣",
+   "7️⃣"
+  ],
+  "who": null,
+  "text": "Tire le levier !",
+  "win": false
+ },
+ "roulette": {
+  "last": null,
+  "who": null,
+  "text": "Choisis ta mise !",
+  "history": [],
+  "win": false
+ },
+ "bj": {
+  "active": false,
+  "who": null,
+  "player": [],
+  "dealer": [],
+  "deck": [],
+  "text": "Lance une partie !",
+  "started": 0,
+  "win": null
+ }
+}
