@@ -1,14 +1,20 @@
 {
- "version": 4,
+ "version": 5,
  "players": {
   "Yxhiikoo": {
-   "chips": 850,
+   "chips": 1050,
    "plays": 3,
-   "wins": 1,
+   "wins": 2,
    "best": 1050
   }
  },
  "log": [
+  {
+   "who": "Yxhiikoo",
+   "e": "🃏",
+   "t": "18 contre 23 → Le croupier saute ! +100",
+   "at": 1792393083
+  },
   {
    "who": "Yxhiikoo",
    "e": "🃏",
@@ -49,7 +55,7 @@
   ]
  },
  "bj": {
-  "active": true,
+  "active": false,
   "who": "Yxhiikoo",
   "player": [
    "7♥",
@@ -57,7 +63,8 @@
   ],
   "dealer": [
    "8♥",
-   "5♣"
+   "5♣",
+   "10♥"
   ],
   "deck": [
    "8♠",
@@ -158,11 +165,10 @@
    "10♣",
    "9♠",
    "8♦",
-   "3♠",
-   "10♥"
+   "3♠"
   ],
-  "text": "Tirer ou rester ?",
+  "text": "Le croupier saute ! +100",
   "started": 1792164816,
-  "win": null
+  "win": true
  }
 }
